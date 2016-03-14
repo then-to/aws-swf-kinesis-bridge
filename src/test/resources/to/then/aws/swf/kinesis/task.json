@@ -1,0 +1,22 @@
+{
+    "taskToken": "ZXJhdCwgdXQgcGhhcmV0cmEgbGVjdHV==",
+    "startedEventId": 3,
+    "workflowExecution": {
+        "workflowId": "ExampleWorkflow-1",
+        "runId": "SBiaWJlbmR1bSBwdWx2aW5hciBub24gbm="
+    },
+    "workflowType": {
+        "name": "ExampleWorkflow",
+        "version": "1"
+    },
+    "events": [{
+            "eventTimestamp": 1457700000000,
+            "eventType": "DecisionTaskStarted",
+            "eventId": 3,
+            "decisionTaskStartedEventAttributes": {
+                "scheduledEventId": 2
+            }
+        }],
+    "nextPageToken": "WF4aW11cyBsb3JlbS4gRHVpcyBtYWduYSB1==",
+    "previousStartedEventId": 0
+}
